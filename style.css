@@ -83,6 +83,13 @@ body, html  {
     filter: blur(120px) saturate(15);
 }
 
+@media screen and (max-width: 427px){
+    .slider_bg{
+        opacity: .35;
+        filter: blur(120px) saturate(35);
+}
+}
+
 .slider_bg .slider__item {
     max-height: 100vh;
 }
