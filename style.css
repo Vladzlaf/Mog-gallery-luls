@@ -86,7 +86,7 @@ body, html  {
 @media screen and (max-width: 427px){
     .slider_bg{
         opacity: .35;
-        filter: blur(120px) saturate(35);
+        filter: blur(120px) saturate(20);
 }
 }
 
